@@ -8,3 +8,4 @@ sedem
 osem
 devat
 desat
+jedenac
