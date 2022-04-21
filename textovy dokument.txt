@@ -9,3 +9,4 @@ osem, osem a pol
 devat
 desat
 jedenac
+dvanac
