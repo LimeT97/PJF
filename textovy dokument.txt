@@ -4,8 +4,8 @@ tri, tri a stvrt, tri a pol, tri a tristvrt
 styri
 pat
 sest
-sedem
-osem
+sedem, sedem a pol
+osem, osem a pol
 devat
 desat
 jedenac
