@@ -10,3 +10,7 @@ devat
 desat
 jedenast
 dvanast
+trinast
+strast
+patnast
+sestnast
