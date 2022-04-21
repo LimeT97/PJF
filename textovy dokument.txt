@@ -1,6 +1,6 @@
 jeden
 dva
-tri
+tri, tri a stvrt
 styri
 pat
 sest
