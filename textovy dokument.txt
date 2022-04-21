@@ -8,5 +8,5 @@ sedem, sedem a pol
 osem, osem a pol
 devat
 desat
-jedenac
-dvanac
+jedenast
+dvanast
